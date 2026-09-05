@@ -1,0 +1,6 @@
+{
+  "name": "CK 강서구점 시뮬레이션",
+  "description": "현대 대한민국, 최대 편의점 브랜드 'CK' 강서구점을 배경으로 펼쳐지는 시뮬레이션 가이드.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
